@@ -1,0 +1,29 @@
+{
+  "name": "Bootstrap 4 Webpack 2",
+  "version": "1.0.0",
+  "description": "Webpack 2 and bootstrap 4 starter kit",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server",
+    "prod": "webpack -p"
+  },
+  "author": "Randy Lough",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^7.1.6",
+    "bootstrap": "^4.0.0-beta.2",
+    "css-loader": "^0.26.1",
+    "extract-text-webpack-plugin": "^2.0.0-rc.0",
+    "html-webpack-plugin": "^2.26.0",
+    "jquery": "^3.2.1",
+    "node-sass": "^4.4.0",
+    "popper.js": "^1.12.6",
+    "postcss-loader": "^2.0.8",
+    "precss": "^2.0.0",
+    "sass-loader": "^4.1.1",
+    "style-loader": "^0.13.1",
+    "tether": "^1.4.0",
+    "webpack": "^2.2.0",
+    "webpack-dev-server": "^2.2.0"
+  }
+}
